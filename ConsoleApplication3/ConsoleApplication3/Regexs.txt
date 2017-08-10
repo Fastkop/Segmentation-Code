@@ -1,0 +1,7 @@
+Founder|CEO|COO|CTO|Chief|Chair|man|Head|of|VP|SVP|Owner|President
+Director|Manager|MD|Board Member|Leader|Lead|Inspector|Analyst|HR|Principal|Member of the board|Supervisor|Officer|Growth|Grow|BM|Human Resource
+Sales man|Sales|Representative|Customer Service|Recruitment|UX|Customer|UI|Rep
+Investor|Partner|Invest|Associate
+Software engineer|Free Lancer|Free Lance|Developer|Programmer|Specialist|Designer|Develop|Software Architect
+Consultants|Counselor|Advisor|Mentor|Contracto
+Teacher|Teach|Learning|Learn|Education|Scholar|Fellow|PHD|Professor|Trainer|Trainee|Coach|Dean|Psychologist|Acadmic|Teaching
